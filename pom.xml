@@ -20,7 +20,7 @@
 		<java.version>17</java.version>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.organization>addianto-github</sonar.organization>
-		<sonar.projectKey>addianto_sitodo</sonar.projectKey>
+		<sonar.projectKey>dhimitajp_sitodo-telkomsat</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>
